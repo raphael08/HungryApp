@@ -1,2 +1,2 @@
-# HunryApp
+# HungryApp
 Flutter Food Recipes App
